@@ -1,4 +1,4 @@
 -  Hi, I’m @3van-Reid
 -  I’m currently learning C#
 -  I’m looking to collaborate on C# Projects
--  How to reach me 3van#9627 on discord
+-  How to reach me evan.reid on discord
