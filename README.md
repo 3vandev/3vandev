@@ -1,4 +1,16 @@
--  Hi, I’m @3van-Reid
--  I’m currently learning C#, Python and Javascript
--  I’m looking to collaborate on projects which use said programming languages
--  How to reach me evan.reid on discord
+# 3vandev
+## Programming languages
+JavaScript - Main Language
+C# - Secondary Language
+TypeScript
+HTML
+CSS
+Python
+
+## Currently Working on:
+Command Handler give it a star!
+
+## About me
+- From the UK
+- 16yrs
+- Been programming for 6 Years
