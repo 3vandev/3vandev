@@ -1,11 +1,11 @@
 # 3vandev
 ## Programming languages
-JavaScript - Main Language
-C# - Secondary Language
-TypeScript
-HTML
-CSS
-Python
+- JavaScript - Main Language
+- C# - Secondary Language
+- TypeScript
+- HTML
+- CSS
+- Python
 
 ## Currently Working on:
 Command Handler give it a star!
