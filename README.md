@@ -1,25 +1,21 @@
 # 3vandev
 ## Programming languages
 ### Known:
-
 **Web development**
 > HTML
 > CSS
 > Vanilla JavaScript
 > React
-
 **Server Side Applications**
 > TypeScript (Node JS)
 > Python
 > Javascript (Node JS)
 > SQL (SQLITE, MYSQL)
-
 **Game Development**
 > C# (Unity Engine)
-
+**Misc**
 > Shell Scripting
 > SQL
-
 ### Learning:
 > C
 > C++
