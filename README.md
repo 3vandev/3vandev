@@ -10,9 +10,10 @@
 > discord.js, MCBE Script Api, discord.py, React, Unity Engine, MonoDevelop Engine, SQLite
 
 ## Currently Working on:
-Command Handler give it a star!
+Refining My skills in C programming.
 
-## About me
-- From the UK
-- 16yrs
-- Been programming for 6 Years
+## Goals
+- Learn OS Development (Using C)
+- Get more comfortable using Linux
+- Learn Assembly for x86_64 Processers
+- Learn C++ In order to use Unreal Engine
