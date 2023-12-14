@@ -1,11 +1,11 @@
 # 3vandev
 ## Programming languages
-- JavaScript - Main Language
-- C# - Secondary Language
-- TypeScript
-- HTML
-- CSS
-- Python
+Known:
+> C#, JavaScript, TypeScript, Python, HTML, CSS, Shell Scripting, SQL
+Learning:
+> C
+Tools:
+> discord.js, MCBE Script Api, discord.py, React, Unity Engine, MonoDevelop Engine, SQLite
 
 ## Currently Working on:
 Command Handler give it a star!
