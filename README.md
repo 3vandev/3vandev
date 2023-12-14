@@ -1,13 +1,27 @@
 # 3vandev
 ## Programming languages
 ### Known:
-> C#, JavaScript, TypeScript, Python, HTML, CSS, Shell Scripting, SQL
+> C#
+> JavaScript
+> TypeScript
+> Python
+> HTML
+> CSS
+> Shell Scripting
+> SQL
 
 ### Learning:
 > C
+> C++
 
 ### Tools:
-> discord.js, MCBE Script Api, discord.py, React, Unity Engine, MonoDevelop Engine, SQLite
+> discord.js
+> MCBE Script Api
+> discord.py
+> React
+> Unity Engine
+> MonoDevelop Engine
+> SQLite
 
 ## Currently Working on:
 Refining My skills in C programming.
