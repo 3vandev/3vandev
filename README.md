@@ -19,19 +19,6 @@
 - Shell Scripting
 - SQL
 
-### Learning:
-- C
-- C++
-
-### Tools I am experienced in:
-- discord.js
-- MCBE Script Api
-- discord.py
-- React
-- Unity Engine
-- MonoDevelop Engine
-- SQLite
-
 ## Goals
 - Learn OS Development (Using C)
 - Get more comfortable using Linux
