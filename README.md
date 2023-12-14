@@ -6,13 +6,16 @@
 - CSS
 - Vanilla JavaScript
 - React
+
 **Server Side Applications**
 - TypeScript (Node JS)
 - Python
 - Javascript (Node JS)
 - SQL (SQLITE, MYSQL)
+
 **Game Development**
 - C# (Unity Engine)
+
 **Misc**
 - Shell Scripting
 - SQL
