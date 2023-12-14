@@ -1,12 +1,22 @@
 # 3vandev
 ## Programming languages
 ### Known:
-> C#
-> JavaScript
-> TypeScript
-> Python
+
+**Web development**
 > HTML
 > CSS
+> Vanilla JavaScript
+> React
+
+**Server Side Applications**
+> TypeScript (Node JS)
+> Python
+> Javascript (Node JS)
+> SQL (SQLITE, MYSQL)
+
+**Game Development**
+> C# (Unity Engine)
+
 > Shell Scripting
 > SQL
 
@@ -14,7 +24,7 @@
 > C
 > C++
 
-### Tools:
+### Tools I am experienced in:
 > discord.js
 > MCBE Script Api
 > discord.py
