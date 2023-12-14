@@ -2,23 +2,24 @@
 ## Programming languages
 ### Known:
 **Web development**
-> HTML
-> CSS
-> Vanilla JavaScript
-> React
+- HTML
+- CSS
+- Vanilla JavaScript
+- React
 **Server Side Applications**
-> TypeScript (Node JS)
-> Python
-> Javascript (Node JS)
-> SQL (SQLITE, MYSQL)
+- TypeScript (Node JS)
+- Python
+- Javascript (Node JS)
+- SQL (SQLITE, MYSQL)
 **Game Development**
-> C# (Unity Engine)
+- C# (Unity Engine)
 **Misc**
-> Shell Scripting
-> SQL
+- Shell Scripting
+- SQL
+
 ### Learning:
-> C
-> C++
+- C
+- C++
 
 ### Tools I am experienced in:
 > discord.js
