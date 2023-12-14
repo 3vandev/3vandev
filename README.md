@@ -1,4 +1,3 @@
-# 3vandev
 ## Programming languages
 ### Known:
 **Web development**
@@ -25,16 +24,13 @@
 - C++
 
 ### Tools I am experienced in:
-> discord.js
-> MCBE Script Api
-> discord.py
-> React
-> Unity Engine
-> MonoDevelop Engine
-> SQLite
-
-## Currently Working on:
-Refining My skills in C programming.
+- discord.js
+- MCBE Script Api
+- discord.py
+- React
+- Unity Engine
+- MonoDevelop Engine
+- SQLite
 
 ## Goals
 - Learn OS Development (Using C)
