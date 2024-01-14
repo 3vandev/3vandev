@@ -25,6 +25,6 @@
 <h1>My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,lua,python,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,cs,python,js,html,css,ts,sql" />
   </a>
 </p>
