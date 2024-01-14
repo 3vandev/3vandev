@@ -22,7 +22,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,python,js,html,css,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,ts" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bash" />
   </a>
 </p>
 
