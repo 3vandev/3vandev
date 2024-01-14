@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&color=F7F7F7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Evan!;" />
 </h1>
 
-### A Game Developer from The UK
+<h3 align="center"> A Game Developer from The UK</h3>
 
 <hr/>
 
