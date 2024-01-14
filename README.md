@@ -7,8 +7,11 @@
 <hr/>
 
 <div align="center">
-    🧑‍💻 I'm Currently working on a **2D Roguelike**
-    📖 I'm currently learning **React JS**
+
+ 🧑‍💻 I'm Currently working on a **2D Roguelike**
+ 
+ 📖 I'm currently learning **React JS**
+
 </div>
 
 <hr/>
