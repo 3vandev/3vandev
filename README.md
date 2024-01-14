@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Evan)](https://git.io/typing-svg)
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Evan" />
+</h1>
 <hr/>
 
 # Programming languages
