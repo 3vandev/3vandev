@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<h1>My Skills</h1>
+<h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,python,js,html,css,ts" />
