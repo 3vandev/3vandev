@@ -8,9 +8,10 @@
 
 <div align="center">
     🧑‍💻 I'm Currently working on a **2D Roguelike**
-
-    📖 I'm currently learning **Advanced C# Concepts**
+    📖 I'm currently learning **React JS**
 </div>
+
+<hr/>
 
 <div align="center"> 
   <a href="mailto: 3vandev@proton.me">
