@@ -8,16 +8,19 @@
 
 <div align="center">
 
- 🧑‍💻 I'm Currently working on a **2D Roguelike**
+ 🧑‍💻 I'm Currently working on a **2D Roguelike, Gravity Wrapper**
  
  📖 I'm currently learning **React JS**
 
-</div>
+ ⏰ Programming For 4 Years
 
-<hr/>
+</div>
 
 <div align="center"> 
   <a href="mailto: 3vandev@proton.me">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
+<h1>My Skills</h1>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
