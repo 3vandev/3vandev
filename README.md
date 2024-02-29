@@ -2,21 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&color=F7F7F7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Evan!;" />
 </h1>
 
-<h3 align="center"> A Game Developer from The UK</h3>
-
-<div align="center">
-
- 🧑‍💻 I'm Currently working on a **2D Roguelike, Gravity Wrapper**
- 
- 📖 I'm currently learning **React JS**
-
- ⏰ Programming For 4 Years
-
-</div>
-
-
-<hr/>
-
 <h1 align="center">My Skills</h1>
 
 <h3 align="center">Languages</h3>
