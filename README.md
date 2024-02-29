@@ -1,5 +1,5 @@
 <h1 align="left">👨‍💻 Evan</h1>
-**`Software Developer and web developer`**
+Software Developer and web developer
 
 <h3 align="left">Languages</h3>
 <p align="left">
