@@ -29,3 +29,5 @@ Software and Web developer
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vandev&layout=compact">
