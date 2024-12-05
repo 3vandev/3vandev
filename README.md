@@ -4,7 +4,7 @@ Software and Web developer
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,ts,nodejs,cpp" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@ Software and Web developer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,unity,flask,django" />
+    <img src="https://skillicons.dev/icons?i=react,vite,unity,flask,django,sql" />
   </a>
 </p>
 
