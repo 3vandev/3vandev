@@ -1,6 +1,8 @@
 <h1 align="left">👨‍💻 Evan</h1>
 Software and Web developer
 
+<a href="https://evanre.id">Check out my website: evanre.id<a>
+
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
